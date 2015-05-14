@@ -1,0 +1,4 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="ESPN BRASIL" group-title="ESPORTES",ESPN BRASIL
+rtmp://37.48.66.83:443/loadbalance playpath=jj10 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://flexstream.net/embed2.php?file=jj10&width=468&height=380
